@@ -10,7 +10,7 @@ def solution(s):
         return s[a//2-1]+s[a//2]
     
 print('return') #string출력
-
+    
 
 
 
