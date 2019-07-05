@@ -31,7 +31,7 @@ int main()
 
 	c = solution(a,b);
 
-	printf("%u" , c);
+	printf("%lld" , c);
 
 
 	return 0;
