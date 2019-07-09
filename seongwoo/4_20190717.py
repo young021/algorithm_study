@@ -31,3 +31,5 @@ solution('JAZ')
 solution('JEROEN')
 solution('AZAAAZ')
 solution('ABABAAAAAAABA')
+
+## 미 완료
