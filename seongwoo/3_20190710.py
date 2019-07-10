@@ -1,7 +1,5 @@
-def solution(a, b):
-    sum = 0
-    if a > b : a,b=b,a
-    for i in range(a,b+1):
-        sum += i
-    answer = sum
-    return answer
+def solution(s):
+    if len(s)%2!=0 : 
+        return s[len(s)//2]
+    else :
+        return s[len(s)//2-1:len(s)//2+1]
